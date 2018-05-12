@@ -1,0 +1,357 @@
+.top{
+ 
+
+    float: right;
+
+
+}
+
+.head-font{
+
+color: red;
+ 
+
+}
+
+
+
+#toplist{
+
+
+color: white;
+position: relative;
+left:52% ;
+top:32px;
+
+}
+
+.top-list{
+
+vertical-align: baseline;
+display: inline;
+margin-right: 5%;
+font-size: inherit;
+font-size: 100%;
+font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:white;
+}
+
+
+header{
+
+    
+    position: fixed;
+    width: 100%;
+    height:63px;    
+
+}
+
+.shrink{
+
+     background-color: #d24d57;
+     border-bottom: 1px solid white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#first{
+	background: url("ashuport.jpg");
+ background-size: 100% 100%; 
+ background-repeat: no-repeat;
+ width: 100%;
+ height:800px;
+ color: white;
+}
+
+
+
+
+img{
+
+	position: relative;
+	top:90px;
+}
+#name{
+
+  font-family: 'Tangerine', serif;
+  font-weight: bolder;
+        font-size: 48px;
+        text-align: center;
+        color: white;
+        position: relative;
+        top:11%;
+
+
+
+}
+.layer{
+    background-color: rgba(110, 110, 216, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:800px;
+}
+h3{
+
+     text-align: center;
+     color: #ffffff;
+     font-weight: bold;
+     position: relative;
+     top:75px;
+     
+        
+}
+body{
+
+	margin-bottom: 0px;
+	padding: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+  color:white;
+}
+.foot{
+
+    background-color: #d24d57;
+    font-family: 'Tangerine', serif;
+    color: white;
+    height:350px;
+    padding-top: 0;
+    
+
+}
+#bottomlist{
+
+	text-align: center;
+
+
+}
+.contact{
+
+	 display:inline;
+	 text-align: center;
+	 position: relative;
+	 top: 18px;
+	 font-family: 'Tangerine', serif;
+	 font-style: inherit;
+	 font-size: 27px;
+	 margin-right:22px;
+	 border-right: 3px solid #fff;
+	 padding-right: 10px;
+
+}
+#no{
+
+    border-right: none;
+
+}
+h5{
+text-align: center;
+position: relative;
+top: 15px;
+
+}
+
+#send-mail{
+    width: 20%;
+    position: relative;
+    text-indent: 30px;
+    margin: 3em auto 5em auto;
+    color: #fff;
+    border-color: #fff;
+    font-size: 1em;
+    padding: 1.5em 0;
+}
+
+.button {
+    font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    border: 2px solid transparent;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 4px;
+
+    }
+
+    .link{
+  
+
+  color: white;
+
+
+
+    }
+
+
+
+#about{
+
+     margin-bottom: 0px;
+    width: 100%;
+    height:620px;
+    background-color: 
+
+
+}
+
+#about{
+
+       background-image: url("about.jpg");
+       background-size: 100% 100%; 
+       background-repeat: no-repeat;
+ 
+}
+
+#layertwo{
+
+    background-color:rgba(1, 96, 82,0.6);
+    height: 100%;
+    width: 100%;
+
+
+}
+
+
+#resp{
+
+
+   font-size: 35px;
+   text-align: center;
+   color: white;
+   font-style: inherit,;
+   margin-left:45px;
+   margin-right: 45px;
+   position: relative;
+   top: 50px
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#aboutme{
+  position: relative;
+  font-weight: bolder;
+  top: 25px;
+ text-align: center;
+ color: white;
+ font-size:2.5em; 
+
+
+}
+
+#great{
+
+       font-weight: bold;
+       letter-spacing: 4px;
+       font-size: 2.5em;
+       margin-bottom: 0.625em;
+       text-transform: uppercase;
+       font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
+       color: white;
+       text-align: center;
+       position: relative;
+       top: 110px;
+}
+
+footer{
+
+
+ background-color: #252525;
+ height: 100px;width: 100%;
+ padding-top: 20px;
+
+}
+#copy{
+	color: grey;
+	text-align: center;
+}
+#maillink{
+	color: #d24d57;
+}
+
+
+
+@media screen and (max-width : 800px) {
+
+#resp{
+
+    font-size: 20px;
+
+}
+
+
+#great{
+
+     font-size: 2.1em;
+
+}
+
+.foot{
+
+   height: 500px;
+
+}
+
+.container-fluid{
+
+   width: 100%;
+
+}
+
+#send-mail{
+
+    width: 60%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
